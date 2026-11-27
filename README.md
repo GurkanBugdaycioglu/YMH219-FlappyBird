@@ -19,7 +19,7 @@ Bu proje, **Nesne Tabanlı Programlama (YMH 219)** dersi kapsamında C# ve Windo
 ## Ekran Görüntüleri
 | Oyun Açıldığında | Oyun İçi Görünüm |
 | :---: | :---: |
-| ![Oyun Açıldığında](Screenshots/1.png) | ![Oyun içi](Screenshots/2.png) |
+| ![Oyun Açıldığında](Screenshots/1.PNG) | ![Oyun içi](Screenshots/2.PNG) |
 
 ## Geliştirici Bilgileri
 - **Adı Soyadı:** Gürkan Buğdaycıoğlu
